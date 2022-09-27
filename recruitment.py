@@ -66,6 +66,7 @@ def main():
 
     desired_skills = ['CSS', 'HTML']
     
+    
     check_acceptance(get_user_cv(get_skills()), desired_skills)
         
 
